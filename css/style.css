@@ -18,3 +18,15 @@ h1 {
   font-weight: 600;
   margin: 10px;
 }
+
+.divisible-both {
+  background-color: #F0466F;
+}
+
+.divisible-3 {
+  background-color: #0BD6A1;
+}
+
+.divisible-5 {
+  background-color: #FFD166;
+}
